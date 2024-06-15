@@ -1,4 +1,5 @@
 <img width="1659" alt="image" src="https://github.com/krishnabp14/blog-app-frontend/assets/155048746/3cf98757-da0f-4e03-aa9e-cfabab841562">
+<img width="1661" alt="image" src="https://github.com/krishnabp14/blog-app-frontend/assets/155048746/d489ccab-607b-4a1f-8e84-46c32a76581c">
 
 # React + TypeScript + Vite
 
